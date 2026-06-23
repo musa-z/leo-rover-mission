@@ -1,6 +1,6 @@
 # Leo Rover Autonomous Mission
 
-ROS2 control and integration code for a Leo Rover mobile manipulation group project. The system coordinates RGB-D perception, object detection, Nav2 goal handling, manipulator commands and finite-state mission logic for an autonomous object pick-and-place task.
+Group ROS2 mobile manipulation project using a Leo Rover platform, RGB-D perception, object detection, Nav2 navigation, manipulator control, custom ROS2 interfaces and a finite-state mission controller.
 
 ## Overview
 
