@@ -1,4 +1,4 @@
-# Leo Rover Autonomous Mission
+# Leo Rover Autonomous Mission - Group Project
 
 Group ROS2 mobile manipulation project using a Leo Rover platform, RGB-D perception, object detection, Nav2 navigation, manipulator control, custom ROS2 interfaces and a finite-state mission controller.
 
