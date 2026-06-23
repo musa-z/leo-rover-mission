@@ -1,6 +1,6 @@
 # README
 
-## Understand the Master Control Code in 10 Minutes: ROS 2 FSM Design & Communication
+## ROS2 Mission Controller Documentation
 
 >This document breaks down the `robot_control_node`. 
 
